@@ -1,4 +1,4 @@
-
+```json
 [
   {
     "relation": [
@@ -8,8 +8,10 @@
       "namespace": "android_app",
       "package_name": "io.github.deepakidontknow8_blip.twa",
       "sha256_cert_fingerprints": [
-  "A5:A5:92:F1:F4:0D:79:1B:85:36:D6:0C:A5:28:77:F2:C5:80:E3:D5:08:4D:EB:AF:49:D7:E5:77:7C:5A:17:6F"
-]
+        "2A:EC:F4:12:CA:13:1A:B8:16:29:98:4E:E1:44:33:7C:D2:7C:B4:2F:4D:29:72:65:AD:2E:B1:12:A4:9C:52:E9",
+        "A5:A5:92:F1:F4:0D:79:1B:85:36:D6:0C:A5:28:77:F2:C5:80:E3:D5:08:4D:EB:AF:49:D7:E5:77:7C:5A:17:6F"
+      ]
     }
   }
 ]
+```
